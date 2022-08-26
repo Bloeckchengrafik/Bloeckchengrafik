@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloeckchengrafik&theme=nord" alt="bloeckchengrafik" /></a> </p>
 
-- 🔭 I’m currently working on [GalaxyCore.net](https://galaxycore.net)
+- 🔭 I’m currently working on [StellarVerse.de](https://setllarverse.de)
 
 - 🌱 I’m currently learning **Rust**
 
