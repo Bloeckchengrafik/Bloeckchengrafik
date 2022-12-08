@@ -5,19 +5,18 @@
 
 - 🔭 I’m currently working on [StellarVerse.de](https://setllarverse.de)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **RedwoodJS**
 
-- 👯 Also colaborating to [feather-rs/feather](https://feathermc.org/)
+- 👯 Also working on open-source: [Bloeckchengrafik](https://github.com/Bloeckchengrafik/noted)
 
 - 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.github.io/](https://bloeckchengrafik.github.io/)
 
-- 💬 Ask me about **Python, Java and Kotlin. JavaScript if you insist**
+- 💬 Ask me about **Python, Java and Kotlin as well as Javascript and Typescript**
 
-- 📫 How to reach me **christian.bergschneide(at)gmx.de**
+- 📫 How to reach me **christian.bergschneider(at)gmx.de**
 
 - ⚡ Fun fact **I Use Arch BTW**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16519092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16519092" height="30" width="40" /></a>
 </p>
