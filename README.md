@@ -3,17 +3,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloeckchengrafik&theme=nord" alt="bloeckchengrafik" /></a> </p>
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **KTOR**
 
-- 👯 Also working on open-source: [Bloeckchengrafik](https://github.com/Bloeckchengrafik/noted)
+- 👯 Also working on open-source: [noted](https://github.com/Bloeckchengrafik/noted) `CURRENTLY INACTIVE`
 
-- 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.github.io/](https://bloeckchengrafik.github.io/)
+- 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.de/](https://bloeckchengrafik.de/)
 
 - 💬 Ask me about **Python, Java and Kotlin as well as Javascript and Typescript**
 
 - 📫 How to reach me **christian.bergschneider(at)gmx.de**
 
-- ⚡ Fun fact **I Use Arch BTW**
+- ⚡ Fun fact **I Use Endeavour OS BTW**
 
 <p align="left">
 <a href="https://stackoverflow.com/users/16519092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16519092" height="30" width="40" /></a>
