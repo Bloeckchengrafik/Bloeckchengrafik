@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloeckchengrafik&theme=nord" alt="bloeckchengrafik" /></a> </p>
 
-- 🌱 I’m currently learning **KTOR**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 Also working on open-source: [noted](https://github.com/Bloeckchengrafik/noted) `CURRENTLY INACTIVE`
+- 👯 Also working on open-source: [ft.seilbahn](https://github.com/ft-seilbahn-projekt)
 
 - 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.de/](https://bloeckchengrafik.de/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **christian.bergschneider(at)gmx.de**
 
-- ⚡ Fun fact **I Use Endeavour OS BTW**
+- ⚡ Fun fact **I Use Arch BTW**
 
 <p align="left">
 <a href="https://stackoverflow.com/users/16519092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16519092" height="30" width="40" /></a>
