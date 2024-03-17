@@ -7,7 +7,7 @@
 
 - 👯 Also working on open-source: [everbuild](https://github.com/everbuild-org)
 
-- 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.de/](https://bloeckchengrafik.de/)
+- 👨‍💻 Some of my projects are available at [bloeckchengrafik.de](https://bloeckchengrafik.de/)
 
 - 📫 How to reach me **christian.bergschneider(at)gmx.de**
 
