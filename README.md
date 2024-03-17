@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GPUI**
 
-- 👯 Also working on open-source: [ft.seilbahn](https://github.com/everbuild-org)
+- 👯 Also working on open-source: [everbuild](https://github.com/everbuild-org)
 
 - 👨‍💻 Some of my projects are available at [https://bloeckchengrafik.de/](https://bloeckchengrafik.de/)
 
