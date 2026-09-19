@@ -47,7 +47,7 @@ Open-source tooling and infrastructure around Minestom and a game built inside M
 </td>
 <td width="33%" valign="top">
 
-### 🚡 Seilbahn
+### 🚡 ftSeilbahnProjekt
 
 Control software for a large model cable-car installation, from embedded communication to the HMI.
 
@@ -110,5 +110,5 @@ If I don't answer, I'm probably sailing, preparing for uni exams, or sitting in 
 ---
 
 <p align="center">
-  <i>I use Cachyos btw. · Also if you disrespect the IntelliJ platform, we can't be friends</i>
+  <i>I use Cachyos btw. · Also, if you disrespect the IntelliJ platform, we can't be friends</i>
 </p>
